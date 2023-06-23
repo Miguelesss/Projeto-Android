@@ -7,8 +7,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family: 'idroid';
-    src: url(IDroid.otf);
+    font-family: 'Android';
+    src: url(/IDroid.otf) format(opentype);
 }
 
 :root {
