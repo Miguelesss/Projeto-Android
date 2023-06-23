@@ -9,6 +9,8 @@
 @font-face {
     font-family: 'Android';
     src: url(/IDroid.otf) format(opentype);
+    font-style: normal;
+    font-weight: normal;
 }
 
 :root {
@@ -18,7 +20,7 @@
     --cor04: #1d3627 ;
     --cor05: #2DB566;
     --font-family-content: 'arial', helvetica, sans-serif;
-    --font-family-title: 'idroid';
+    --font-family-title: 'Android';
     --strong-font: normal bold 16px arial, helvetica, sans-serif;
     --shadow-fixed: 0px 0px 10px rgba(0, 0, 0, 0;05);
 }
