@@ -229,15 +229,16 @@ aside a {
     width: 100%;
     padding: 20px;
     position: relative;
-    padding-bottom: 56.6%;
+    padding-bottom: 56%;
 }
 
 article iframe {
+    width: 100%; 
+    max-width: 620px;
     position: absolute; 
-    left: 5%;
-    top: 5%;
-    width: 90%;
-    height: 90%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /* rodapé */
